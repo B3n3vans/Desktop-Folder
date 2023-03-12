@@ -1,0 +1,14 @@
+How have you noticed your bootcamp knowledge grow or change during Programming Basics?
+
+So far I have noticed a significant change in what I know and understand about coding. I've learned how computers think and read lines of code.
+I've learned how to do math in the language of the computer, and I have been come a better typewriter on my keyboard because of repetition from the work.
+
+How have you noticed your approach to learning change throughout Programming Basics?
+
+I have noticed a change in my approach and it is simply because I am motivated and excited for the curriculum and the opportunities that passing this bootcamp may bring.
+
+What do you consider your "Mistake of the Week," which was a failure you learned from during Programming Basics?
+
+My failure of the week was figuring out that every single character that is written in code is important and has meaning. There were several times where I would glance
+over lines of code not noticing that in stead of i++ it was now i+=2 which will completely change the output of a for loop. Moving forward I will ensure that I pay close 
+attention to every bit of information that is provided.
